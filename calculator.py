@@ -1,3 +1,5 @@
+#This is the calculator program
+
 # This function adds two numbers
 def add(x, y):
     return x + y
